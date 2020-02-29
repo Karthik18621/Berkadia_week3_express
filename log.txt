@@ -1,0 +1,18 @@
+Get method(all details)
+[{"id":1,"name":"karthik","password":"sarma","profession":"student"},{"id":2,"name":"shiva","password":"goinaka","profession":"student "}]
+New user
+{"id":3,"name":"ayush","password":"agarwal","profession":"android"}
+New user
+{"id":4,"name":"charan","password":"neela","profession":"full stack"}
+
+Get method(all details)
+[{"id":1,"name":"karthik","password":"sarma","profession":"student"},{"id":2,"name":"shiva","password":"goinaka","profession":"student "}]
+
+User details updation
+{"id":1,"name":"satish","password":"chitti","profession":"student"}
+Get method(all details)
+[{"id":1,"name":"satish","password":"chitti","profession":"student"},{"id":2,"name":"shiva","password":"goinaka","profession":"student "},{"id":3,"name":"dream","password":"sara","profession":"full stack"},{"id":4,"name":"dream","password":"sara","profession":"full stack"},{"id":5,"name":"dream","password":"sara","profession":"full stack"}]
+Deleted user
+{"id":4,"name":"dream","password":"sara","profession":"full stack"}
+Get method(all details)
+[{"id":1,"name":"satish","password":"chitti","profession":"student"},{"id":2,"name":"shiva","password":"goinaka","profession":"student "},{"id":3,"name":"dream","password":"sara","profession":"full stack"},{"id":5,"name":"dream","password":"sara","profession":"full stack"}]
